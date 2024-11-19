@@ -14,4 +14,4 @@ Ensure you have Python 3.8 or higher installed.
 ### Install Dependencies
 Install the required dependencies by running:
 ```bash
-pip install -r requirements.txt
+pip install torch
